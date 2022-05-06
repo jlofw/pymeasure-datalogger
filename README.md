@@ -1,2 +1,2 @@
 # py-datalogger
-Datalogger for K2000/K2306 with pySerial and AR488.
+Datalogger for Keithley 2000/Keithley 2306 with pySerial and AR488.
